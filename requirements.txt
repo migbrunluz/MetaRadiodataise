@@ -1,3 +1,5 @@
 Flask
 jsonify
 requests
+feedparser
+urllib3
