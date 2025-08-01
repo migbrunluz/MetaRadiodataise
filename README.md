@@ -1,5 +1,6 @@
-# MetaRadiodataise - Revival of Coca Cola FM's dead api endpoint
-Revival of the old Goom Radio metadata used on Coca Cola FM's windows 8 (and android) app which uses radio paradises open api to get now playing data
+# MetaRadiodataise/iParadiseRadios - Revival of Coca Cola FM's dead api endpoint
+Revival of the old goomradio metadata  used on Coca Cola FM's windows 8  app which uses radio paradises open api to get now playing data
+for android its imusica
 
 
 
